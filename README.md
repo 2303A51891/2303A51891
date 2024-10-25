@@ -6,4 +6,5 @@
 [lab 5: https://github.com/2303A51891/2303A51891/blob/main/lab5.ipynb]            
 [lab 6: https://github.com/2303A51891/2303A51891/blob/main/lab06.ipynb]    
 [lab 7: https://github.com/2303A51891/2303A51891/blob/main/Lab07.ipynb ]            
-[lab 8: https://github.com/2303A51891/2303A51891/blob/main/Lab08.ipynb ]
+[lab 8: https://github.com/2303A51891/2303A51891/blob/main/Lab08.ipynb ]                    
+[lab 10: https://github.com/2303A51891/2303A51891/blob/main/LAB10.ipynb ]
